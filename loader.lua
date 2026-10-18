@@ -2,7 +2,7 @@ if not game:IsLoaded() then
     game.Loaded:Wait()
 end
 
-local BASE = 'https://raw.githubusercontent.com/NOX-SCRIPT/NOX/main/GAMES/'
+local BASE = 'https://raw.githubusercontent.com/nox-atomic/nox/main/games/'
 
 local games = {
     [825735094] = 'sae.lua',
