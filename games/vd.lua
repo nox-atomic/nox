@@ -12,7 +12,7 @@ do
     lib.Scheme.HoverColor = Color3.fromRGB(22, 22, 26)
 
     v = lib:CreateWindow({
-        Title = "NOX Hub",
+        Title = "NOX HUB",
         Subtitle = "Violance District",
         SubtitleColor = Color3.fromRGB(190, 140, 255),
         Logo = "rbxassetid://123052226839946",
