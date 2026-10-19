@@ -2,7 +2,7 @@ if not game:IsLoaded() then
 	game.Loaded:Wait()
 end
 
-local SCRIPT_VERSION = "v1.3"
+local SCRIPT_VERSION = "v0.2"
 local GAME_NAME = "1 Bite Per Click"
 local GAME_KEY = "1BitePerClick"
 local UI_SOURCE_URL = "https://raw.githubusercontent.com/nox-atomic/atomic-v1/main/Source.luau"
