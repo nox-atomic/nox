@@ -22,6 +22,7 @@ local games = {
     [900458044] = '827405193.lua',
     [12851171] = '863205719.lua',
     [8818124] = '916382745.lua',
+    [1848960] = '918273645.lua', 
 }
 
 local file = games[game.PlaceId] or games[game.CreatorId]
